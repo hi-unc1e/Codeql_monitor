@@ -18,7 +18,7 @@ require (
 	go.uber.org/ratelimit v0.2.0
 	golang.org/x/crypto v0.8.0
 	gorm.io/datatypes v1.2.0
-	gorm.io/driver/sqlite v1.5.0
+	gorm.io/driver/sqlite v1.4.4
 	gorm.io/gorm v1.25.0
 )
 
